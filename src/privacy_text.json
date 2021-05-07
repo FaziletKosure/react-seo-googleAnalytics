@@ -1,0 +1,40 @@
+
+   [ {
+        "id": 1,
+        "text": "Xiaomi Mi True Wireless Earbuds",
+        "question": "Q. What data do you collect?",
+        "answer": "We collect browsing history"
+        },
+        {
+            "id": 2,
+            "text": "Xiaomi Mi True Wireless Earbuds",
+            "question": "Q. What’s your privacy principles?",
+            "answer": "Your privacy comes first"},
+            {
+                "id": 3,
+                "text": "Xiaomi Mi True Wireless Earbuds",
+                "question": "Q.  How is the data used?",
+                "answer": "We use it to improve our work"},
+                {
+                    "id": 4,
+                    "text": "Xiaomi Mi True Wireless Earbuds",
+                    "question": "Q. Do you share my data?",
+                    "answer": "We don’t share your data"},
+                    {
+                        "id": 5,
+                        "text": "How can I make a complaint?",
+                        "question": "Q. How can I make a complaint?",
+                        "answer": "We are here to help"},
+                        {
+                            "id": 6,
+                            "text": "Xiaomi Mi True Wireless Earbuds",
+                            "question": "Q. What are my rights?",
+                            "answer": "Simple to exercise your rights"},
+                            {
+                                "id": 7,
+                                "text": "Xiaomi Mi True Wireless Earbuds",
+                                "question": "Q. What about future changes?",
+                                "answer": "We inform and ask permission"}
+                    ]
+    
+    
